@@ -18,7 +18,6 @@
 <a href="https://twitter.com/crom422" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="crom422" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/marcromack/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/marcromack/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/19511702/marcelo-cromack?tab=profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/19511702/marcelo-cromack?tab=profile" height="30" width="40" /></a>
-<a href="https://discord.gg/Ivangoloide#2036" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Ivangoloide#2036" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Linguagem e ferramentas:</h3>
