@@ -5,7 +5,7 @@
 - 🔭 Atualmente estou participando da ONG campinho Digital para programadores 
 **https://plataforma.campinhodigital.org/user/login**
 
-- 🌱 Estou atualmente aprendendo **JavaScript, nodJS e angular**
+- 🌱 Estou atualmente aprendendo **JavaScript, nodeJS e VueJS**
 
 - 💬 Pergunte me sobre **Python**
 
