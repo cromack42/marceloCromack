@@ -2,9 +2,6 @@
 <h3 align="center">Um apaixonado desenvolvedor FullStack do Brasil</h3> 
 <img align ="right" alt="Coding" width="300" src="https://miro.medium.com/max/1600/0*C-cPP9D2MIyeexAT.gif">
 
-- 🔭 Atualmente estou participando da ONG campinho Digital para programadores 
-**https://plataforma.campinhodigital.org/user/login**
-
 - 🌱 Estou atualmente aprendendo **JavaScript, nodeJS e VueJS**
 
 - 💬 Pergunte me sobre **Python, Golang, HTML, JavaScript, CSS**
