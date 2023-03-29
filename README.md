@@ -7,7 +7,7 @@
 
 - 🌱 Estou atualmente aprendendo **JavaScript, nodeJS e VueJS**
 
-- 💬 Pergunte me sobre **Python**
+- 💬 Pergunte me sobre **Python, Golang, HTML, JavaScript, CSS**
 
 - 📫 consigo ser contactado por aqui **croma42@protonmail.com**
 
